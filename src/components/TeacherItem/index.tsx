@@ -37,7 +37,9 @@ const TeacherItem:React.FC<TeacherItemProps> = ({ teacher }) => {
             </div>
         </header>
         
-        <p>{teacher.bio}</p>
+        {teacher.bio.split('\n').map((item, i) => {
+            return <p key={i}>{item}</p>;
+        })}
 
         <footer>
             <p>
