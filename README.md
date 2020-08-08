@@ -6,8 +6,8 @@
   </a>
 </p>
 
-> FrontEnd em React para o projeto Proffy, que visa conectar alunos e professores para agendamento de aulas. <br />
-> Desenvolvido na NLW#2 da Rocketseat.
+> React frontend for project Proffy, responsible for connecting students and teachers to schedule classes. <br />
+> Developed on NLW#2 from Rocketseat.
 
 -----------------------------------------------------
 ## Clone the Repository
